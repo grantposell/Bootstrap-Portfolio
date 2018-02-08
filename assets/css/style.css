@@ -1,0 +1,22 @@
+/*body styling*/
+body{
+    background-image:url("../images/round.png");
+}
+
+/*formating for the footer*/
+footer{
+    bottom:0;
+    position: sticky;
+    width: 100%;
+    text-align: center;
+    background-color:#666666;
+    color: #777777;
+    padding:20px;
+    border-top: 10px solid #4aaaa5;
+    /*Margin top to make portfolio spaced away*/
+    
+}
+
+/*shading over Grant Posell in the header;
+change alignment of navbar elements*/
+
