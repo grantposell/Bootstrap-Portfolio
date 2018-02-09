@@ -8,6 +8,31 @@ body{
 #portfoliobody{
     margin-bottom:100px;
 }
+#hangman{
+    position:relative;
+}
+#rpg{
+    position:relative;
+}
+#trivia{
+    position:relative;
+}
+#rutgers{
+    position:relative;
+}
+#rock{
+    position:relative;
+}
+.caption {
+    position: absolute;
+    color: white;
+    background-color: #4aaaa5;
+    top: 75%;
+    left: 7%;
+    width: 94.5%;
+    height: 20%;
+    text-align: center;
+}
 
 
 /*formating for the footer*/
