@@ -33,7 +33,12 @@ body{
     height: 20%;
     text-align: center;
 }
-
+.card-body{
+    margin: 0px;
+}
+.thumbnail{
+    margin-bottom: 40px;
+}
 
 /*formating for the footer*/
 footer{
